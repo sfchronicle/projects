@@ -3,6 +3,9 @@ A list of The Chronicle's interactive projects
 
  Date | Name | URL | Repo | Embeds
  --- | --- | --- | --- | ---
+Aug. 1, 2016 | Summer of Women: '96 Olympics timeline | [:link:](http://projects.sfchronicle.com/2016/summer-of-women) | [:link:](https://github.com/sfchronicle/women-olympics-timeline) | 
+July 29, 2016 | Black lives, black voices | [:link:](http://sfchronicle.com/black-voices) | [:link:](https://github.com/sfchronicle/blm) | 
+July 29, 2016 | SF Marathon preview | [:link:](http://www.sfchronicle.com/bayarea/article/How-the-SF-Marathon-became-not-world-famous-but-8664413.php?t=d325298af07d4f3860&cmpid=twitter-premium) | [:link:](https://github.com/sfchronicle/sfmarathon-setup) | 
 July 22, 2016 | Restaurant taxes heatmap | [:link:](http://www.sfchronicle.com/restaurants/article/Sales-tax-data-reveals-boom-and-bust-restaurant-8401462.php) | [:link:](https://github.com/sfchronicle/restauranttaxes) | 
 July 22, 2016 | Airbnb 2016 | [:link:](projects.sfchronicle.com/2016/airbnb) | [:link:](https://github.com/sfchronicle/airbnb16_site) | [:link:](https://github.com/sfchronicle/airbnb2016)
 July 8, 2016 | Sea Level Rise | [:link:](projects.sfchronicle.com/2016/sea-level-rise/) | [:link:](https://github.com/sfchronicle/sea-level-rise) | 
