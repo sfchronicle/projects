@@ -19,6 +19,6 @@ April 28, 2016 | 2016 Top 100 Restaurants | [:link:](http://projects.sfchronicle
 March 1, 2016 | Last Men Standing | [:link:](http://projects.sfchronicle.com/2016/living-with-aids/) | [:link:](https://github.com/sfchronicle/pillars-among-the-ruins) | 
 Feb. 26, 2016 | Why is it so expensive to dine out in SF? | [:link:](http://www.sfchronicle.com/restaurants/article/Why-is-it-so-expensive-to-dine-out-in-San-6856554.php) | [:link:](https://github.com/sfchronicle/restaurant-pricing) | 
 Feb. 19, 2016 | Tech helping fuel S.F.’s growing gender pay gap | [:link:](http://www.sfchronicle.com/business/article/Tech-may-be-fueling-S-F-s-growing-gender-pay-6841471.php) | [:link:](https://github.com/sfchronicle/gender-pay-gap) | 
-Feb. 5, 2016 | Super Bowl quiz (local) | [:link:](http://projects.sfchronicle.com/2016/superbowl-quiz-local/) | [:link:](https://github.com/sfchronicle/superbowl-quiz-local) | 
+Feb. 5, 2016 | Super Bowl quiz (local) | [:link:](https://github.com/sfchronicle/superbowl-quiz-local) | [:link:](http://projects.sfchronicle.com/2016/superbowl-quiz-local/) | 
 Feb. 5, 2016 | Super Bowl quiz | [:link:](https://github.com/sfchronicle/superbowl-quiz/) | [:link:](http://projects.sfchronicle.com/2016/superbowl-quiz/) | 
 Jan. 29, 2016 | Tech pipeline to Texas: Tax money, people flow out of Bay Area | [:link:](http://www.sfchronicle.com/business/article/Tech-pipeline-to-Texas-Tax-money-employees-flow-6791524.php?t=906500b72b&cmpid=twitter-premium) | [:link:](https://github.com/sfchronicle/texas-migration-lines) | 
