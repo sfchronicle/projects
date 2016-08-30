@@ -3,6 +3,8 @@ A list of The Chronicle's interactive projects
 
  Date | Name | URL | Repo | Embeds
  --- | --- | --- | --- | ---
+Aug. 30, 2016 | Running the numbers: SF marathon for data geeks | [:link:](http://projects.sfchronicle.com/2016/lucas-art) | [:link:](https://github.com/sfchronicle/lucas) | 
+Aug. 26, 2016 | The Najee Chronicles | [:link:](http://projects.sfchronicle.com/2016/najee-harris/) | [:link:](https://github.com/sfchronicle/najee) | 
 Aug. 8, 2016 | Running the numbers: SF marathon for data geeks | [:link:](http://projects.sfchronicle.com/2016/sf-marathon-data) | [:link:](https://github.com/sfchronicle/sfmarathon) | 
 Aug. 1, 2016 | Summer of Women: '96 Olympics timeline | [:link:](http://projects.sfchronicle.com/2016/summer-of-women) | [:link:](https://github.com/sfchronicle/women-olympics-timeline) | 
 July 29, 2016 | Black lives, black voices | [:link:](http://sfchronicle.com/black-voices) | [:link:](https://github.com/sfchronicle/blm) | 
